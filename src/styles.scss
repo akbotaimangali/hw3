@@ -1,0 +1,12 @@
+/* src/styles.scss */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* 🤎 Современный бежево-коричневый фон на всю страницу */
+body {
+  background: linear-gradient(135deg, #f5efe6 0%, #d7bfae 100%);
+}
